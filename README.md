@@ -37,7 +37,7 @@ Say hi or send code memes at **camino.losada.alonso@gmail.com**
 <a href="https://redux-toolkit.js.org/" target="_blank"> <img style="margin:5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" title="Redux Toolkit" alt="Redux Toolkit" width="30" height="30" /> </a>
 <a href="https://vitejs.dev/" target="_blank"> <img style="margin:5px" src="https://vitejs.dev/logo-with-shadow.png" title="Vite" alt="Vite"width="30" height="30" /></a>  
 <a href="https://axios-http.com/es/docs/intro" target="_blank"><img style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png" title="Axios" alt="Axios" width="68" height="10" /> </a> 
-<a href="https://www.netlify.com/" target="_blank"> <img style="margin:5px" src="https://o.remove.bg/downloads/0dfd051e-bff4-4bed-bb55-0d26f95016cf/netlify-logo-vector-2023-removebg-preview.png" title="Netlify" alt="Netlify" width="55" height="30" /> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img style="margin:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png" title="Netlify" alt="Netlify" width="60" height="30" /> </a>
 <a href="https://nextjs.org/" target="_blank"> <img style="margin:5px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" title="NextJS" alt="NextJS" width="30" height="30" /> </a>
 </section>
 <section>
