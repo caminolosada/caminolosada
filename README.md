@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Camino 🌻</h1>
 <h2 align="center">Full Stack Developer based in Barcelona</h2>
 
-🐠 Before code entered my life, I was fish biologist.
+🐠 Before code entered my life, I was a fish biologist.
 
 📚 I enjoy reading (and accumulating) books so much that I’ve needed to develop an application to manage them.
 
