@@ -48,7 +48,7 @@ Say hi or send code memes at **camino.losada.alonso@gmail.com**
 <a href="https://postman.com" target="_blank"> <img style="margin:5px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="30" height="30"/> </a>
 <a href="https://jwt.io/" target="_blank"> <img style="margin:5px" src="https://jwt.io/img/pic_logo.svg" title="JWT" alt="JWT" width="30" height="30"/> </a>
 <a href="https://joi.dev/" target="_blank"> <img style="margin:5px" src="https://joi.dev/img/joiTransparent.png" title="Joi Validation" alt="Joi Validation" width="30" height="30"/> </a>
-<a href="https://render.com/" target="_blank"> <img style="margin:5px" src="https://o.remove.bg/downloads/bfce85c0-5220-4093-ae59-b5ec8363df6c/images-removebg-preview.png" title="Render" alt="Render" width="70" height="40"/> </a>
+<a href="https://render.com/" target="_blank"> <img style="margin:5px" src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2019/10/render-alternative-logo.webp" title="Render" alt="Render" width="50" height="30"/> </a>
 </section>
 <br>
 
@@ -58,9 +58,9 @@ Say hi or send code memes at **camino.losada.alonso@gmail.com**
 <a href="https://testing-library.com/" target="_blank" > <img style="margin:5px" src="https://testing-library.com/img/octopus-64x64.png" title="Testing Library" alt="Testing Library" width="30" height="30"/> </a>
 <a href="https://jestjs.io" target="_blank" > <img style="margin:5px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" alt="Jest" width="30" height="30"/> </a>
 <a href="https://vitest.dev/" target="_blank"> <img style="margin:5px" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" title="Vitest" alt="Vitest" width="30" height="30" /> </a>
-<a href="https://mswjs.io/" target="_blank"> <img style="margin:5px" src="https://o.remove.bg/downloads/f80c2fe9-1b57-4770-9a0e-7b2cfc880f49/images-removebg-preview.png" title="Mock Service Worker" alt="Mock Service Worker" width="40" height="30" /> </a>
+<a href="https://mswjs.io/" target="_blank"> <img style="margin:5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE85kxeHBdFqoeZbGti6-Ba0j3QVr-E8DmZ8aV12hN3Q&s" title="Mock Service Worker" alt="Mock Service Worker" width="40" height="30" /> </a>
 <a href="https://www.npmjs.com/package/supertest" target="_blank"> <img style="margin:5px" src="https://camo.githubusercontent.com/fcca6a233a54a037861c99ab17d255d215807e6c0fcdce7d16a1a67814ede820/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6d656469612d702e736c69642e65732f75706c6f6164732f3333383935382f696d616765732f313439363334352f7375706572746573742e706e67" title="Supertest" alt="Supertest" width="30" height="30" /> </a>
-<a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank"> <img style="margin:5px" src="https://o.remove.bg/downloads/731a44b6-c4bc-478a-a333-264a7b23532b/image-blog-test-driven-data-removebg-preview.png" title="TDD" alt="TDD" width="40" height="30" /> </a>
+<a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank"> <img style="margin:5px" src="https://blogs.zeiss.com/digital-innovation/de/wp-content/uploads/sites/2/2015/04/201504_Test_Driven_Development_2_neu_fi.png" title="TDD" alt="TDD" width="50" height="30" /> </a>
 </section>
 <br>
 
@@ -70,7 +70,7 @@ Say hi or send code memes at **camino.losada.alonso@gmail.com**
 <a href="https://git-scm.com/" target="_blank"><img style="margin:5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title="Git" alt="Git" width="30" height="30"/> </a>  
 <a href="https://docs.github.com/en/actions" target="_blank"><img style="margin:5px" src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg" title="GitHub Actions" alt="GitHub Actions" width="30" height="30"/> </a>  
 <a href="https://docs.gitlab.com/ee/development/cicd/" target="_blank"> <img style="margin:5px" src="https://gep13.gallerycdn.vsassets.io/extensions/gep13/ci-cd-assets-vscode/0.5.0/1555715281585/Microsoft.VisualStudio.Services.Icons.Default" title="CI/CD" alt="CI/CD" width="30" height="30"/> </a>
-<a href="https://www.npmjs.com/" target="_blank"> <img style="margin:5px" src="https://o.remove.bg/downloads/214503ef-295d-44ac-ab8f-89a11a0bad8a/images-removebg-preview.png" title="npm" alt="npm" width="57" height="20"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"> <img style="margin:5px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXfONtz-U9BUvEQybbuJuLP_YejMCll1bhbxY5ps&s" title="npm" alt="npm" width="30" height="30"/> </a>
 <a href="https://eslint.org/" target="_blank"> <img style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" title="ESLint" alt="ESLint" width="45" height="45"/> </a>
 <a href="https://prettier.io/" target="_blank"> <img style="margin:5px" src="https://prettier.io/icon.png" title="Prettier" alt="Prettier" width="30" height="30"/> </a>
 <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank"> <img style="margin:5px" src="https://assets-eu-01.kc-usercontent.com/b41f2e46-b5e6-01a3-0879-16969c63381e/889c710e-6b94-4802-b299-a2e169107e42/SonarCloud_Logo.svg" title="Sonarcloud" alt="Sonarcloud" width="50" height="30"/> </a>
